@@ -1,0 +1,13 @@
+C:\Users\Aluno\source\repos\projectbeazika\projectbeazika\bin\Debug\projectbeazika.exe.config
+C:\Users\Aluno\source\repos\projectbeazika\projectbeazika\bin\Debug\projectbeazika.exe
+C:\Users\Aluno\source\repos\projectbeazika\projectbeazika\bin\Debug\projectbeazika.pdb
+C:\Users\Aluno\source\repos\projectbeazika\projectbeazika\obj\Debug\projectbeazika.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\projectbeazika\projectbeazika\obj\Debug\projectbeazika.Cadastrousuario.resources
+C:\Users\Aluno\source\repos\projectbeazika\projectbeazika\obj\Debug\projectbeazika.Form1.resources
+C:\Users\Aluno\source\repos\projectbeazika\projectbeazika\obj\Debug\projectbeazika.Properties.Resources.resources
+C:\Users\Aluno\source\repos\projectbeazika\projectbeazika\obj\Debug\projectbeazika.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\projectbeazika\projectbeazika\obj\Debug\projectbeazika.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\projectbeazika\projectbeazika\obj\Debug\projectbeazika.exe
+C:\Users\Aluno\source\repos\projectbeazika\projectbeazika\obj\Debug\projectbeazika.pdb
+C:\Users\Aluno\source\repos\projectbeazika\projectbeazika\obj\Debug\projectbeazika.Cadastrocliente.resources
+C:\Users\Aluno\source\repos\projectbeazika\projectbeazika\obj\Debug\projectbeazika.Cadastroproduto.resources
